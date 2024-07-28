@@ -3,3 +3,5 @@
 	url = https://github.com/Princeadxisrael/Turbin3-Prereq-Solana-Rust-.git
 [submodule "create-a-keypair-on-Solana-network-and-claim-Airdrop"]
 	path = create-a-keypair-on-Solana-network-and-claim-Airdrop
+	url= https://github.com/Princeadxisrael/create-a-keypair-on-Solana-network-and-claim-Airdrop.git
+
