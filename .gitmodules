@@ -5,3 +5,6 @@
 	path = create-a-keypair-on-Solana-network-and-claim-Airdrop
 	url= https://github.com/Princeadxisrael/create-a-keypair-on-Solana-network-and-claim-Airdrop.git
 
+[submodule "Rug_NFT_Mint"]
+	path = Rug_NFT_Mint
+	url = https://github.com/Princeadxisrael/Rug_NFT_Mint.git
