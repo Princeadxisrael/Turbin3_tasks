@@ -8,3 +8,6 @@
 [submodule "Rug_NFT_Mint"]
 	path = Rug_NFT_Mint
 	url = https://github.com/Princeadxisrael/Rug_NFT_Mint.git
+[submodule "SPL_Token_Mint"]
+	path = SPL_Token_Mint
+	url = https://github.com/Princeadxisrael/SPL_Token_Mint.git
