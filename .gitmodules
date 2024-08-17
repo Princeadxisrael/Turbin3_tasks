@@ -14,3 +14,6 @@
 [submodule "NFT_staking"]
 	path = NFT_staking
 	url = https://github.com/Princeadxisrael/NFT_staking.git
+[submodule "Vault-Onchain"]
+	path = Vault-Onchain
+	url= https://github.com/Princeadxisrael/Vault-Onchain.git
