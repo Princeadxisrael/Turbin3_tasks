@@ -11,3 +11,6 @@
 [submodule "SPL_Token_Mint"]
 	path = SPL_Token_Mint
 	url = https://github.com/Princeadxisrael/SPL_Token_Mint.git
+[submodule "NFT_staking"]
+	path = NFT_staking
+	url = https://github.com/Princeadxisrael/NFT_staking.git
