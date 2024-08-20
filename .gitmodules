@@ -17,3 +17,6 @@
 [submodule "Vault-Onchain"]
 	path = Vault-Onchain
 	url= https://github.com/Princeadxisrael/Vault-Onchain.git
+[submodule "Escrow-Program_Token_transfer"]
+	path = Escrow-Program_Token_transfer
+	url = https://github.com/Princeadxisrael/Escrow-Program_Token_transfer.git
