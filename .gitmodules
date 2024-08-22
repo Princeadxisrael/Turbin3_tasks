@@ -20,3 +20,6 @@
 [submodule "Escrow-Program_Token_transfer"]
 	path = Escrow-Program_Token_transfer
 	url = https://github.com/Princeadxisrael/Escrow-Program_Token_transfer.git
+[submodule "NFT_Marketplace"]
+	path = NFT_Marketplace
+	url = https://github.com/Princeadxisrael/NFT_Marketplace.git
