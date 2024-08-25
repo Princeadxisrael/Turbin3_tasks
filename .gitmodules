@@ -26,3 +26,6 @@
 [submodule "Dice_betting_program"]
 	path = Dice_betting_program
 	url = https://github.com/Princeadxisrael/Dice_betting_program.git
+[submodule "Wager_Capstone"]
+	path = Wager_Capstone
+	url = https://github.com/Princeadxisrael/Wager_Capstone.git
