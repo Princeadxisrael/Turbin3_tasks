@@ -23,3 +23,6 @@
 [submodule "NFT_Marketplace"]
 	path = NFT_Marketplace
 	url = https://github.com/Princeadxisrael/NFT_Marketplace.git
+[submodule "Dice_betting_program"]
+	path = Dice_betting_program
+	url = https://github.com/Princeadxisrael/Dice_betting_program.git
